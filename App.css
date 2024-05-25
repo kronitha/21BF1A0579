@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+label {
+  margin-right: 10px;
+}
+
+select {
+  margin-right: 10px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+.response {
+  margin-top: 20px;
+}
+
+pre {
+  text-align: left;
+  display: inline-block;
+}
